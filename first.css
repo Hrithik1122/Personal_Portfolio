@@ -1,0 +1,112 @@
+#hrithik{
+	color:#00ffff; 
+	font-family:poppins-bold, sans-serif; 
+	font-size: 2.0rem; 
+	letter-spacing: .1rem; 
+	margin-top: 150px;
+}
+
+html,body{
+    overflow-x: hidden;
+}
+
+#hello{
+	font-size: 90px; 
+	color: white; 
+	margin-left: auto; 
+	line-height: 0.050;
+
+}
+#image{
+	width: 200px; 
+	height: 12rem; 
+	float: left; 
+	margin: 0.80rem 0.8rem 0 4rem;
+}
+#intro{
+	text-align: left; 
+	font-size: 1.5rem; 
+	color: #888888; 
+	line-height: 1.8; 
+	padding-left: 16rem;
+}
+
+#browse{
+	font-size: 2.0rem; 
+	color:#313131 ; 
+	margin: 6.14rem 2rem 0 32rem; 
+	font-family: sans-serif; 
+	letter-spacing: 0.1rem; 
+	display: inline;
+}
+#skills{
+	font-size: 2.0rem; 
+	color:#313131 ; 
+	line-height: 1.8; 
+	font-family: sans-serif; 
+	letter-spacing: 0.1rem; 
+	display: inline;
+}
+#ht{
+	font-size: 1.5rem; 
+	color:#000000; 
+	font-family: sans-serif; 
+	display: inline; 
+	margin-left: 47.8rem;
+}
+#resume{
+	font-size: 1.5rem; 
+	color:#000000; 
+	margin: 6.14rem 7rem 0 32rem; 
+	font-family: sans-serif; 
+	display: inline;
+}
+#cs{
+	font-size: 1.5rem; 
+	color:#000000; 
+	font-family: sans-serif; 
+	display: inline; 
+	margin: -0.9rem;
+}
+#project{
+	font-size: 1.5rem; 
+	color:#000000; 
+	margin: 6.14rem 7rem 0 32rem; 
+	font-family: sans-serif; 
+	display: inline;
+}
+#php{
+	font-size: 1.5rem; 
+	color:#000000; 
+	font-family: sans-serif; 
+	display: inline; 
+	margin: -0.8rem;
+}
+#empty{
+	font-size: 1.5rem; 
+	color:#000000; 
+	margin: 6.14rem 7rem 0 32rem; 
+	font-family: sans-serif; 
+	display: inline;
+}
+#laravel{
+	font-size: 1.5rem; 
+	color:#000000; 
+	font-family: sans-serif; 
+	display: inline; 
+	margin-left: 100px;
+}
+#empty1{
+	font-size: 1.5rem; 
+	color:#000000; 
+	margin: 6.14rem 7rem 0 32rem; 
+	font-family: sans-serif; 
+	display: inline;
+}
+#mysql{
+	font-size: 1.5rem; 
+	color:#000000; 
+	font-family: sans-serif; 
+	display: inline; 
+	margin: 6.3rem;
+}
