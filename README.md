@@ -1,3 +1,4 @@
 # Hrithik Bansal Portfolio
 
-### MY personal Website and I make it responsive
+### Integrated about, experience, project, contact. 
+#### Designed with CSS, Bootstrap, and animations.
